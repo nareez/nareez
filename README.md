@@ -1,6 +1,6 @@
-### Hi there, I'm Luiz Gustavo 
+#### Hi there, I'm Luiz Gustavo 
 
-## I'm passionate about classic games and programming. Also by developing business intelligence
+### I'm passionate about classic games and programming. Also by developing business intelligence
 
 - 🔭 I'm currently working in the top 5 biggest banks in Brazil with data processing for Business Intelligence
 - 🌱 I'm currently learning to program classic games on the Atari 2600, NES and Sega Genesis
