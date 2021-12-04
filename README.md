@@ -9,8 +9,12 @@
 
 ### LEARNING GOALS
 
-- [x] Learn assembly 6502 and make an Atari VCS game that runs on real hardware
+#### Modern Gaming Programming
 - [ ] Learn modern game development on GODOT
+  - [ ] Make a game inspired by my nephews
+
+#### Old Gaming Programming
+- [x] Learn assembly 6502 and make an Atari VCS game that runs on real hardware
 - [ ] Learn NES game development and make a game that runs on real hardware
 - [ ] Learn FPGA development to port Mist cores to Multicore 2+
 - [ ] Learn Sega Genesis (Megadrive) development
