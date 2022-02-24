@@ -11,7 +11,7 @@
 
 #### Gaming Programming
 - [x] Learn modern game development on GODOT
-  - [ ] Make a game inspired by my nephews
+  - [x] Make a basic game
 
 #### Hardcore Programming
 - [x] Learn assembly 6502 and make an Atari VCS game that runs on real hardware
@@ -19,4 +19,5 @@
 
 #### Wishlist
 - [ ] Learn FPGA development to port Mist cores to Multicore 2+
-- [ ] Learn Sega Genesis (Megadrive) development
+- [ ] Code on Sega Genesis (Megadrive)
+- [ ] Code on Nintendo 64
