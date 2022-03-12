@@ -1,6 +1,6 @@
 #### Hi there, I'm Luiz Gustavo 
 
-### I'm passionate about classic games and programming. Also by databases and developing business analytics
+### I'm passionate about classic games, programming and both together. Also by databases and developing business analytics
 
 - 🔭 I'm currently working in the top 5 biggest banks in Brazil with data processing for Business Intelligence
 - 🌱 I'm currently studying how to code a 3D Graphics engine from scratch
