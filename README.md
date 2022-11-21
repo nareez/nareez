@@ -15,9 +15,8 @@
 
 #### Hardcore Programming
 - [x] <a href="https://github.com/nareez/bomber-atari">Learn assembly 6502 and make an Atari VCS game that runs on real hardware</a>
-- [ ] <a href="https://github.com/nareez/3drenderer">Learning 3D Graphics from scratch</a>
-  - [ ] <a href="https://github.com/nareez/3DRenderer-megadrive">Code on Sega Genesis (Megadrive)</a>
+- [x] <a href="https://github.com/nareez/3drenderer">Learning 3D Graphics from scratch</a>
+  - [x] <a href="https://github.com/nareez/3DRenderer-megadrive">Code on Sega Genesis (Megadrive)</a>
 
-#### Wishlist
-- [ ] Learn FPGA development to port Mist cores to Multicore 2+
-- [ ] Code on Nintendo 64
+- [ ] Code assembly 6502 on NES
+
