@@ -4,7 +4,6 @@
 
 - 🔭 I'm currently working in the top 5 biggest banks in Brazil with data processing for Business Intelligence
 - 🌱 I'm currently studying how to code a 3D Graphics engine from scratch
-- 🤔 I'm looking for help to learn to FPGA dev
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/luiz-gustavo-almeida/">LinkedIn</a> <a href="https://twitter.com/NaReeZ">Twitter</a>
 
 ### LEARNING GOALS
