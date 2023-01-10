@@ -21,6 +21,6 @@
 - [ ] Code Voxel Space Engine on Dreamcast
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nareez&count_private=true&show_icons=true&theme=radical&custom_title=Nareez">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nareez&count_private=false&show_icons=true&theme=radical&custom_title=Nareez">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nareez&layout=compact&theme=radical">
 </p>
